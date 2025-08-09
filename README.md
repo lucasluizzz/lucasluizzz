@@ -1,23 +1,22 @@
-Olá, eu sou Lucas Luiz! 👋
+# Olá, eu sou Lucas Luiz! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, começando minha jornada como programador.  
+Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada como programador.  
 Tenho interesse em infraestrutura e estou focado em aprender novas tecnologias.
 
 ## O que estou aprendendo
 
-- Fundamentos de programação  
-- Lógica de programação  
+- Fundamentos e lógica de programação  
 - Conceitos básicos de infraestrutura  
 
 ## Meus objetivos
 
 - Desenvolver projetos práticos para ganhar experiência  
 - Aprender linguagens como Python e JavaScript  
-- Entender mais sobre desenvolvimento web e backend  
+- Explorar desenvolvimento web e backend  
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/lucas-luiz-994146289/
+- [LinkedIn](https://www.linkedin.com/in/lucas-luiz-994146289/)  
 - Email: lucasluizds05@gmail.com
 
 Obrigado por visitar meu perfil! 🚀
